@@ -6,8 +6,8 @@
 </a>
 <br/>
 [![GitHub](https://github.com/Amittt47)]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[![Email](https://img.shields.io/badge/Email-amitmallickakm47@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitmallickakm47@gmail.com)
+[![LinkedIn]
+[![Email](mailto:amitmallickakm47@gmail.com)
  
 <!-- Replace YOUR-LINKEDIN-USERNAME with your actual LinkedIn profile ID -->
  
