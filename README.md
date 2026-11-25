@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Amit+%F0%9F%91%8B;B.Tech+CSE+Undergrad+(2023%E2%80%932027);Building+secure+and+responsive+web+apps;Python+%7C+JavaScript+%7C+React+%7C+Node.js;Open+to+internships+and+real-world+projects" alt="Typing SVG" />
 </a>
 <br/>
-[![GitHub](https://img.shields.io/badge/GitHub-Amittt47-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amittt47)
+[![GitHub](https://github.com/Amittt47)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 [![Email](https://img.shields.io/badge/Email-amitmallickakm47@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitmallickakm47@gmail.com)
  
